@@ -1,0 +1,72 @@
+[
+  {
+    "LivroId": 0,
+    "Titulo": "Ela fica com a garota",
+    "Autor": "Vavalenzinha linda",
+    "Categoria": "Romance LGBTQIA+",
+    "AnoPublicacao": 2025,
+    "Editora": "Aurora Editorial",
+    "ISBN": "978-65-990001-00-1",
+    "Disponivel": false
+  },
+  {
+    "LivroId": 1,
+    "Titulo": "Eu te amo",
+    "Autor": "Priscila",
+    "Categoria": "Drama Romântico",
+    "AnoPublicacao": 2025,
+    "Editora": "Lótus Publicações",
+    "ISBN": "978-65-990001-01-8",
+    "Disponivel": false
+  },
+  {
+    "LivroId": 2,
+    "Titulo": "Talvez fosse amor",
+    "Autor": "Priscila",
+    "Categoria": "Ficção Contemporânea",
+    "AnoPublicacao": 2024,
+    "Editora": "Lótus Publicações",
+    "ISBN": "978-65-990001-02-5",
+    "Disponivel": true
+  },
+  {
+    "LivroId": 3,
+    "Titulo": "Coisas que eu não disse",
+    "Autor": "Vavalenzinha linda",
+    "Categoria": "Romance",
+    "AnoPublicacao": 2023,
+    "Editora": "Aurora Editorial",
+    "ISBN": "978-65-990001-03-2",
+    "Disponivel": true
+  },
+  {
+    "LivroId": 4,
+    "Titulo": "Entre versos e silêncios",
+    "Autor": "Priscila",
+    "Categoria": "Poesia",
+    "AnoPublicacao": 2025,
+    "Editora": "Vagalume Poesia",
+    "ISBN": "978-65-990001-04-9",
+    "Disponivel": false
+  },
+  {
+    "LivroId": 5,
+    "Titulo": "Não era sobre você",
+    "Autor": "Vavalenzinha linda",
+    "Categoria": "Romance Juvenil",
+    "AnoPublicacao": 2022,
+    "Editora": "Aurora Editorial",
+    "ISBN": "978-65-990001-05-6",
+    "Disponivel": true
+  },
+  {
+    "LivroId": 6,
+    "Titulo": "A garota do casaco amarelo",
+    "Autor": "Priscila",
+    "Categoria": "Mistério / Romance",
+    "AnoPublicacao": 2021,
+    "Editora": "Lótus Publicações",
+    "ISBN": "978-65-990001-06-3",
+    "Disponivel": true
+  }
+]

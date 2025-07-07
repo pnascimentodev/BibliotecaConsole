@@ -1,0 +1,51 @@
+[
+  {
+    "usuarioId": 0,
+    "nome": "Valentina Maia",
+    "email": "vavalen2002@gmail.com",
+    "telefone": "81992006647",
+    "endereco": "Rua do meu coração"
+  },
+  {
+    "usuarioId": 1,
+    "nome": "Priscila Nascimento",
+    "email": "pri.amor@gmail.com",
+    "telefone": "81993007788",
+    "endereco": "Avenida das Rosas, 123"
+  },
+  {
+    "usuarioId": 2,
+    "nome": "Luna Oliveira",
+    "email": "luna.oli@hotmail.com",
+    "telefone": "81991003322",
+    "endereco": "Rua da Aurora, 45"
+  },
+  {
+    "usuarioId": 3,
+    "nome": "Mia Souza",
+    "email": "mia.souza22@gmail.com",
+    "telefone": "81995001234",
+    "endereco": "Travessa do Sol Nascente"
+  },
+  {
+    "usuarioId": 4,
+    "nome": "Harper Duarte",
+    "email": "harper.duarte@outlook.com",
+    "telefone": "81998765432",
+    "endereco": "Alameda das Flores, 98"
+  },
+  {
+    "usuarioId": 5,
+    "nome": "Sophia Lins",
+    "email": "sophia.lins@gmail.com",
+    "telefone": "81997001122",
+    "endereco": "Rua dos Girassóis, 300"
+  },
+  {
+    "usuarioId": 6,
+    "nome": "Tracie Lima",
+    "email": "tracie.lima@livemail.com",
+    "telefone": "81999667755",
+    "endereco": "Vila Esperança, bloco B"
+  }
+]
